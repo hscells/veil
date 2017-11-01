@@ -3,7 +3,7 @@
 
 [![GoDoc](https://godoc.org/github.com/hscells/veil?status.svg)](https://godoc.org/github.com/hscells/veil)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hscells/veil)](https://goreportcard.com/report/github.com/hscells/veil)
-[![cover.run](https://cover.run/go/github.com/hscells/veil.svg)](https://gocover.io/github.com/hscells/doi)
+[![gocover](http://gocover.io/_badge/github.com/hscells/veil)](https://gocover.io/github.com/hscells/veil)
 
 
 _A sensible and well tested flags and bitmask library for the go language._
