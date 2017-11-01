@@ -21,6 +21,6 @@ if err != nil {
 }
 ```
 
-A FlagsMap can also be constructed from a slice of `uint8`, a slice of `bool`,
+A FlagsMap can also be constructed from a slice of `int8`, a slice of `bool`,
 or a map. Please see the [documentation](https://godoc.org/github.com/hscells/veil)
 for the full reference.
